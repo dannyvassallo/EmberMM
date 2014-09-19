@@ -15,6 +15,7 @@ This boilerplate includes:
   * JS/CSS segmented into MM Partials
   * Minify JS/CSS Enabled
   * LiveReload Enabled
+  * Heroku Deployment
   * IE Friendly Console Log by Mark Allen
 
 
