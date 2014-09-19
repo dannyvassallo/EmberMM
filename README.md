@@ -1,4 +1,4 @@
-EmberMM: An EmberJS/Middleman BoilerPlate
+## EmberMM: An EmberJS/Middleman BoilerPlate
 
 Made to help organize EmberJS with Middleman partials
 
